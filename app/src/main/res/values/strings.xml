@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Qual o seu tipo sanguineo?</string>
+    <string name="text">Informe o seu tipo sanguineo</string>
+    <string name="button">Pesquisar</string>
+    <string name="text2">Pessoas com o tipo sanguineo abaixo podem doar para você</string>
+    <string name="result">Result</string>
+
+</resources>
